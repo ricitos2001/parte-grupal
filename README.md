@@ -10,7 +10,7 @@ parte grupal del trabajo de entorno
 Si desean trabajar con un lenguaje en especifico el mas adecuado es IntelliJ IDEA para Java y Kotlin o Pycharm para Python pero si se trabajan con varios lenguaje de programacion el mas adecuado es Visual Studio Code
 
 #### ¿Qué IDE recomendarían a un equipo de desarrollo que trabaja en proyectos de Python, Java o Kotlin y por qué?
-Recomendariamos Visual Studio Code
+Recomendariamos Visual Studio Code, bjao nuestro punto de vista es un IDE muy completo con el cual podemos trabajar muchos lenguajes de programación y con miles de extensiones que nos pueden ayudar en nuestro proyecto.
 ### (GRUPAL) tabla comparativa
 
 
