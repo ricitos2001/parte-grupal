@@ -45,8 +45,8 @@ Recomendariamos Visual Studio Code
 |Depurador|Su depurador es basico pero funcional||COMPLETO PARA C++|Su depurador es muy completo para Java y Kotlin||
 |Autocompletado de código|Mediante la extension de IntelliSense Visual Studio Code nos permite la finalización de código, información de parámetros, información rápida y listas de miembros||AVANZADO, NATIVO PARA C/C++|Nos permite la finalizacion de un codigo en varios aspectos como la finalizacion basica, finalizacion de coincidencia de tipos o finalizacion de declaraciones||
 |Control de versiones|Permite mantener un registro limpio y organizado de todos los cambios realizados en tu código, clonar repositorios, hacer commits, pull y push sin salir del editor|Integrado|Integrado|IntelliJ IDEA admite varios sistemas de control de versiones como Git, Subversion, Mercurial, CVS, GitHub y TFS que pueden realizar acciones relacionadas con el control de versiones desde el propio IDE||
-|Automatizacion de tareas|Permite la automatización de tareas mediante un archivo de configuracion|||Las tareas se automatizan al ejecutar el programa||
-|Soporte para multiples lenguajes|Soporta multiples lenguajes|||Soporta multiples lenguajes pero esta dedicado a Java y a Kotlin||
-|Personalizacion del entorno|Tiene una personalizacion del tema, fuente de letra y atajos de teclado|No mucha personalización disponible|Tiene una personalización de tema y atajos de teclado|Tiene una personalizacion del tema, fuente de 
+|Automatizacion de tareas|Permite la automatización de tareas mediante un archivo de configuracion||Si, uso de macros y herramientas externas para la automatización de tareas.|Las tareas se automatizan al ejecutar el programa||
+|Soporte para multiples lenguajes|Soporta multiples lenguajes||Soporte nativo para c/c++, tambien aporta soportes esenciales para otros lenguajes|Soporta multiples lenguajes pero esta dedicado a Java y a Kotlin||
+|Personalizacion del entorno|Tiene una personalizacion del tema, fuente de letra y atajos de teclado|No mucha personalización disponible|Tiene una personalización de tema y atajos de teclado|
 |Precio/licencia|Su licencia es gratuita|Propietario|Propietario|Su licencia es de pago||
 
