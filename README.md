@@ -26,11 +26,11 @@ parte grupal del trabajo de entorno
 |Control de versiones|Permite mantener un registro limpio y organizado de todos los cambios realizados en tu código, clonar repositorios, hacer commits, pull y push sin salir del editor|||IntelliJ IDEA admite varios sistemas de control de versiones como Git, Subversion, Mercurial, CVS, GitHub y TFS que pueden realizar acciones relacionadas con el control de versiones desde el propio IDE||
 |Automatizacion de tareas|Permite la automatización de tareas mediante un archivo de configuracion|||Las tareas se automatizan al ejecutar el programa||
 |Soporte para multiples lenguajes|Soporta multiples lenguajes|||Soporta multiples lenguajes pero esta dedicado a Java y a Kotlin||
-|Personalizacion del entorno|Tiene una personalizacion del tema, fuente de letra y atajos de teclado|||Tiene una personalizacion del tema, fuente de letra y atajos de teclado|
+|Personalizacion del entorno|Tiene una personalizacion del tema, fuente de letra y atajos de teclado|||Tiene una personalizacion del tema, fuente de letra y atajos de teclado||
 |Integración con bases de datos|||||
 |Pruebas automatizadas|||||
 |Soporte para frameworks|||||
 |Configuracion de entornos virtuales|||||
 |Herramientas de análisis de código|||||
 |Soporte para compilación/maven/gradle|||||
-|Precio/licencia|Su licencia es gratuita|||Su licencia es de pago|
+|Precio/licencia|Su licencia es gratuita|||Su licencia es de pago||
