@@ -3,8 +3,10 @@ parte grupal del trabajo de entorno
 
 ### (GRUPAL) Comparación de las características comunes y específicas de diversos entornos de desarrollo
 #### ¿Qué características comunes comparten los IDEs en términos de edición de código, depuración y control de versiones?
+Caracteristicas que comparten los siguiente IDEs en edición de código pueden ser las funciones de autocompletado y el soporte de plugins/extensiones para ampliar sus capacidades, para la depuración de código en los IDEs se pueden añadir puntos de rupturas y ejecutar paso a paso el código para ver que valores se van tomando y para control de versiones se puede utilizar el git para poder trabajar en diferentes dispositivos y en grupo.
 
 #### ¿Qué diferencias notaron en la forma en que los IDEs manejan módulos, personalización y generación de ejecutables?
+
 
 #### ¿Cuál de los IDEs elegidos consideran que es más adecuado para proyectos de desarrollo específicos y por qué?
 Si desean trabajar con un lenguaje en especifico el mas adecuado es IntelliJ IDEA para Java y Kotlin o Pycharm para Python o Clion para c/c++ pero si se trabajan con varios lenguaje de programacion el mas adecuado es Visual Studio Code
