@@ -7,8 +7,8 @@ parte grupal del trabajo de entorno
 #### ¿Qué diferencias notaron en la forma en que los IDEs manejan módulos, personalización y generación de ejecutables?
 
 #### ¿Cuál de los IDEs elegidos consideran que es más adecuado para proyectos de desarrollo específicos y por qué?
-Si desean trabajar con un lenguaje en especifico el mas adecuado es IntelliJ IDEA para Java y Kotlin o Pycharm para Python pero si se trabajan con varios lenguaje de programacion el mas adecuado es Visual Studio Code
-
+Si desean trabajar con un lenguaje en especifico el mas adecuado es IntelliJ IDEA para Java y Kotlin o Pycharm para Python o Clion para c/c++ pero si se trabajan con varios lenguaje de programacion el mas adecuado es Visual Studio Code
+La razón para utilizar estos IDEs es por que están hechos para esos lenguajes a pesar de que se puedan trabajar con algunos más mediante extensiones o plugins, al trabajar lenguajes específicos para cada uno podemos sacar el máximo rendimiento a cada uno.
 #### ¿Qué IDE recomendarían a un equipo de desarrollo que trabaja en proyectos de Python, Java o Kotlin y por qué?
 Recomendariamos Visual Studio Code, bjao nuestro punto de vista es un IDE muy completo con el cual podemos trabajar muchos lenguajes de programación y con miles de extensiones que nos pueden ayudar en nuestro proyecto.
 ### (GRUPAL) tabla comparativa
