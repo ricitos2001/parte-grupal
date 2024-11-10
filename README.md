@@ -13,7 +13,6 @@ La razón para utilizar estos IDEs es por que están hechos para esos lenguajes 
 Recomendariamos Visual Studio Code, bjao nuestro punto de vista es un IDE muy completo con el cual podemos trabajar muchos lenguajes de programación y con miles de extensiones que nos pueden ayudar en nuestro proyecto.
 ### (GRUPAL) tabla comparativa
 
-# nuestra tabla
 |tabla comparativa de los IDEs||||||
 |----|----|----|----|----|----|
 |Caracteristicas|Visual Studio Code|Fleet|Clion|IntelliJ IDEA|Pycharm|
