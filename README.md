@@ -6,7 +6,11 @@ parte grupal del trabajo de entorno
 Caracteristicas que comparten los siguiente IDEs en edición de código pueden ser las funciones de autocompletado y el soporte de plugins/extensiones para ampliar sus capacidades, para la depuración de código en los IDEs se pueden añadir puntos de rupturas y ejecutar paso a paso el código para ver que valores se van tomando y para control de versiones se puede utilizar el git para poder trabajar en diferentes dispositivos y en grupo.
 
 #### ¿Qué diferencias notaron en la forma en que los IDEs manejan módulos, personalización y generación de ejecutables?
-
+- Clion es un IDE hecho para trabajar en c/c++, con un soporte creado para poder trabajar con grandes proyectos, permite una personalización significativa, permitiendo personalizar los temas,los atajos de teclado, fuente y tamaño de las letras, etc... y que ofrece herramientas avanzadas para la creación de ejecutables como CMake
+- PyCharm es un IDE especializado en Python, desarrollado por JetBrains, y está diseñado para facilitar el desarrollo en este lenguaje. Algunas características específicas de PyCharm incluyen: soporte avanzado para Python, depuración avanzada de Python y refactorización inteligente
+- IntelliJ IDEA es un producto de JetBrains  muy popular para el desarrollo de aplicaciones en Java y Kotlin. Sus características específicas incluyen: soporte nativo para Kotlin y Java, integración con Gradle y Maven y herramientas de análisis de código
+- Visual Studio Code es un editor de código ligero y altamente extensible. Aunque no es un IDE en el sentido tradicional, puede configurarse para serlo mediante extensiones. Sus características específicas incluyen: soporte para múltiples lenguajes, terminal integrado y es ligero y rápido
+- Fleet es un editor de JetBrains diseñado para ser ligero, flexible y compatible con múltiples lenguajes de programación. Se ofrece como alternativa a Visual Studio Code y presenta una experiencia simplificada pero potente, permitiendo la colaboración en tiempo real entre equipos.
 
 #### ¿Cuál de los IDEs elegidos consideran que es más adecuado para proyectos de desarrollo específicos y por qué?
 Si desean trabajar con un lenguaje en especifico el mas adecuado es IntelliJ IDEA para Java y Kotlin o Pycharm para Python o Clion para c/c++ pero si se trabajan con varios lenguaje de programacion el mas adecuado es Visual Studio Code
